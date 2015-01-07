@@ -1,0 +1,1 @@
+This repository is an adapted version of Matt Graham's [Midnight theme](https://github.com/mattgraham/midnight), originally designed for GitHub Pages. (Based on the commit [37f4273](https://github.com/mattgraham/midnight/commit/37f42730b6f128dccba785f008e4ce38b72cff70).)

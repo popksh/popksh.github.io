@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+exec_path="$(dirname "$(readlink -f "$0")")"
+pages_path="${exec_path}/pages"
+for md_file in "${pages_path}"/*.md; do
+    yml_file="${pages_path}/$(basename "${md_file}" '.md').yml"
+    cat "${exec_path}/config.yml" >"${yml_file}"
+    <"${md_file}" cmark | jq -s -R '.' >>"${yml_file}" || { echo "${RED}markdown rendering with cmark failed${RESET}" >&2; exit 1; }
+
+    html_file="${pages_path}/$(basename "${md_file}" '.md').html"
+    mustache "${yml_file}" "${exec_path}/page.mustache" >"${html_file}"
+
+    html_file_publish="${exec_path}/_site/$(basename "${md_file}" '.md').html"
+    cp "${html_file}" "${html_file_publish}"
+done
