@@ -1,0 +1,125 @@
+---
+page_title: A Pink - Seven Springs of Apink
+date_last_updated: January 10, 2015
+---
+# A Pink — *Seven Springs of Apink* &nbsp;era<br>live performance collection
+
+(Released April 19, 2011.)
+
+<h2 id="TOC">TOC</h2>
+
+* [album cover](#album-cover)
+* [general guidelines](#general-guidelines)
+* [specific guidelines](#specific-guidelines)
+* [download links](#download-links)
+* [file list](#file-list)
+
+<h2 id="album-cover">album cover</h2>
+
+![album cover](/images/20110331-seven-springs-of-a-pink__600x600.jpg)
+
+<h2 id="general-guidelines">general guidelines</h2>
+
+* My collection of live performances includes all broadcast performances of songs within the release cycle (see specific
+guidelines for track listing), whether or not the performance is dated within the release cycle.
+
+  For instance, performances of "NoNoNo" after the release of *Pink Blossom* are included in the *Secret Garden* collection
+rather than the *Pink Blossom* collection (but one file with both "NoNoNo" and "Mr. Chu" appears in both).
+
+* My collection also includes short accompanying interviews, first place announcements of music shows when first place was
+obtained, and performances of special campaign songs and covers within the release cycle.
+
+* I try my best to keep the collection complete and up-to-date, but as with every mortal, I might have overlooked something.
+Please do not hesitate to contact me at <a href="mailto:popksh@gmail.com">popksh@gmail.com</a> to inform me of any omissions.
+Ten bonus points to your House (whether Gryffindor or Slytherin) if you in addition provide me with a valid download link to the
+missing file.
+
+* All files are named as
+
+  ```
+  YYYYMMDD-DESCRIPTION__7SHA1.ts
+  ```
+
+  where `YYYYMMDD` is the date of performance or broadcast, `DESCRIPTION` is the hyphen-delimited description (usually composed
+of TV station — left out for major music shows, group name, title(s) of song(s) performed or content description, e.g.,
+"interview", or "first place"), and `7SHA1` are the first seven digits of the hexadecimal SHA-1 digest of the file. The file
+extension is always `.ts` since all my videos are in MPEG-TS containers.
+
+<h2 id="specific-guidelines">specific guidelines</h2>
+
+* Track listing of *Seven Springs of Apink*:
+
+  * 01 Seven Springs of Apink;
+  * 02 I Don't Know (몰라요);
+  * 03 It Girl;
+  * 04 Wishlist;
+  * 05 Boo.
+
+* The digital single "It Girl (Remix Ver.)" was released during this release period.
+
+* I talked about possible omissions in general guidelines. That point is unfortunately more true in this case, since I only
+joined the party toward the end of the *Secret Garden* era. I *tried* to collect all I could find, but all I could put my hands
+on were second hand information. Unfortunate fact of life. Please contact me regarding omissions.
+
+<h2 id="download-links">download links</h2>
+
+* **OneDrive:<br>
+  [1drv.ms/1I6eeVf](http://1drv.ms/1I6eeVf)**
+
+* **Baidu:<br>
+  [pan.baidu.com/s/1qWPXGMK](http://pan.baidu.com/s/1qWPXGMK)**
+
+<h2 id="file-list">file list</h2>
+
+```
+total: 49 files, 24234094238 bytes (23GiB)
+   791258912    20110421-m-countdown-apink-wishlist-mollayo__8196cbe.ts
+   668439640    20110422-music-bank-apink-wishlist-mollayo__d1dd34b.ts
+   527813008    20110423-music-core-apink-mollayo__2cca49e.ts
+   468949832    20110424-inkigayo-apink-mollayo__3e6e728.ts
+   565272196    20110428-m-countdown-apink-mollayo__7894a41.ts
+   441244648    20110429-music-bank-apink-mollayo__a60ddae.ts
+   390523188    20110430-music-core-apink-mollayo__6c83ae0.ts
+   440791040    20110501-inkigayo-apink-mollayo__4582d33.ts
+   558583808    20110505-m-countdown-apink-mollayo__2af2be4.ts
+   392549452    20110507-music-core-apink-mollayo__265003c.ts
+   397812324    20110508-inkigayo-apink-mollayo__8d607e6.ts
+   480608256    20110512-m-countdown-apink-mollayo__a981b87.ts
+   444286864    20110513-music-bank-apink-mollayo__df0ae28.ts
+   477102080    20110519-m-countdown-apink-mollayo__14ccba9.ts
+   397342136    20110521-music-core-apink-mollayo__3cdae79.ts
+   440807424    20110522-inkigayo-apink-mollayo__8e216b4.ts
+   411511132    20110527-music-bank-apink-mollayo__3f09155.ts
+   376479400    20110528-music-core-apink-mollayo__786afa4.ts
+   497241952    20110602-m-countdown-apink-mollayo__e22f812.ts
+   405903092    20110603-music-bank-apink-mollayo__9c222cd.ts
+   511301344    20110604-kbs-love-request-apink-mollayo__1f38502.ts
+   434550720    20110605-inkigayo-apink-mollayo__b961821.ts
+   477829448    20110609-m-countdown-apink-mollayo__f7cd191.ts
+   404902932    20110610-music-bank-apink-mollayo__86e1485.ts
+   383783012    20110612-inkigayo-apink-mollayo__b617e8c.ts
+   523216408    20110623-m-countdown-apink-it-girl__c090be9.ts
+   430698976    20110624-music-bank-apink-it-girl__a8e332f.ts
+   453607424    20110625-music-core-apink-it-girl__e1b7ae2.ts
+   471124992    20110626-inkigayo-apink-it-girl__a8490b3.ts
+   495853008    20110630-m-countdown-apink-it-girl__db8ca52.ts
+   330500992    20110701-music-bank-apink-mollayo__adb9abd.ts
+   455828748    20110702-music-core-apink-it-girl__5ef60ed.ts
+   436169024    20110703-inkigayo-apink-it-girl__8c38931.ts
+   461284508    20110705-mbc-changwon-1st-anniversary-hope-concert-apink-it-girl__7667a35.ts
+   438160884    20110710-inkigayo-apink-it-girl__7df5e29.ts
+   483672300    20110714-m-countdown-apink-it-girl__e8ce6f0.ts
+   431160516    20110715-music-bank-apink-it-girl__d52b4cb.ts
+   443644656    20110716-music-core-apink-it-girl__4988a5c.ts
+   431682028    20110717-inkigayo-apink-mollayo-it-girl__38f32a1.ts
+  1389430544    20110910-anibox-gsl-aug-final-apink-mollayo-it-girl__1f3aa9a.ts
+   699193244    20111006-mnet-hallyu-dream-concert-apink-mollayo__02a1f44.ts
+   538973252    20111208-m-countdown-apink-mollayo__31feee9.ts
+   500893664    20111224-sbs-seoul-tokyo-music-festival-apink-mollayo__be04eb7.ts
+   319586840    20111225-sbs-seoul-tokyo-music-festival-apink-mollayo__d41f337.ts
+   697725152    20120105-m-countdown-apink-it-girl-my-my-remix__f689b6f.ts
+   603610660    20120119-jtbc-26th-golden-disk-awards-apink-mollayo__17c6488.ts
+   515683248    20120119-kbs-drama-seoul-music-awards-apink-mollayo-my-my__35a1eb6.ts
+   216705156    20120311-kbs-incheon-utd-k-league-celebration-apink-mollayo__a74b80e.ts
+   678798440    20121011-m-countdown-apink-mollayo-my-my__0d724a7.ts
+```

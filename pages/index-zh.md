@@ -28,30 +28,38 @@ date_last_updated: 2015年1月9日
 
   以下为一系列指向相关资源专属页面的链接，已按专辑发行时间的逆序排列。
 
-  * [A Pink, __Pink Luv__ 时代](/20141124-pink-luv.html)（2014年11月24日发行）；
+  * [A Pink, __Pink Luv__ 时期](/20141124-pink-luv.html)（2014年11月24日发行）；
 
     [![album cover](/images/20141124-pink-luv_100x-1.jpg)](/20141124-pink-luv.html)
 
-  * [Lovelyz, __Girls' Invasion__ 时代](/20141117-girls-invasion.html)（2014年11月17日发行）；
+  * [Lovelyz, __Girls' Invasion__ 时期](/20141117-girls-invasion.html)（2014年11月17日发行）；
 
     [![album cover](/images/20141117-girls-invasion_100x-1.jpg)](/20141117-girls-invasion.html)
 
-  * [A Pink, __Pink Blossom__ 时代](/20140331-pink-blossom.html)（2014年3月31日发行）；
+  * [A Pink, __Pink Blossom__ 时期](/20140331-pink-blossom.html)（2014年3月31日发行）；
 
     [![album cover](/images/20140331-pink-blossom_100x-1.jpg)](/20140331-pink-blossom.html)
 
-  * [A Pink, __Secret Garden__ 时代](/20130705-secret-garden.html)（2013年7月5日发行）；
+  * [A Pink, __Secret Garden__ 时期](/20130705-secret-garden.html)（2013年7月5日发行）；
 
     [![album cover](/images/20130705-secret-garden_100x-1.jpg)](/20130705-secret-garden.html)
 
-  * [A Pink, __Une Annee__ 时代](/20120509-une-annee.html)（2012年5月9日发行）；
+  * [A Pink, __Une Annee__ 时期](/20120509-une-annee.html)（2012年5月9日发行）；
 
     [![album cover](/images/20120509-une-annee_100x-1.jpg)](/20120509-une-annee.html)
 
-  * [A Pink, __Snow Pink__ 时代](/20111122-snow-pink.html)（2011年11月22日发行）；
+  * [A Pink, __Snow Pink__ 时期](/20111122-snow-pink.html)（2011年11月22日发行）；
 
     [![album cover](/images/20111122-snow-pink_100x-1.jpg)](/20111122-snow-pink.html)
 
-  * [A Pink, __Seven Springs of Apink__ 时代](/20110419-seven-springs-of-apink.html)（2011年4月19日发行）。
+  * [A Pink, __Seven Springs of Apink__ 时期](/20110419-seven-springs-of-apink.html)（2011年4月19日发行）。
 
     [![album cover](/images/20110419-seven-springs-of-a-pink_100x-1.jpg)](/20110419-seven-springs-of-apink.html)
+
+<h2 id="contact">联系方式</h2>
+
+您可通过 <a href=mailto:popksh@gmail.com>popksh@gmail.com</a> 联系我。请注意：
+
+* 谢绝垃圾邮件；
+* 请在第一封邮件中明确指出您联系我的理由，否则您的邮件将直接进入废件箱；
+* 在我熟练掌握其他（自然）语言之前，一切通信仅限中文和英文。

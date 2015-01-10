@@ -1,0 +1,125 @@
+---
+page_title: A Pink - Secret Garden
+date_last_updated: January 10, 2015
+---
+# A Pink — *Secret Garden* &nbsp;era<br>live performance collection
+
+(Released July 5, 2013.)
+
+<h2 id="TOC">TOC</h2>
+
+* [album cover](#album-cover)
+* [general guidelines](#general-guidelines)
+* [specific guidelines](#specific-guidelines)
+* [download links](#download-links)
+* [file list](#file-list)
+
+<h2 id="album-cover">album cover</h2>
+
+![album cover](/images/20130705-secret-garden__600x600.jpg)
+
+<h2 id="general-guidelines">general guidelines</h2>
+
+* My collection of live performances includes all broadcast performances of songs within the release cycle (see specific guidelines for track listing), whether or not the performance is dated within the release cycle.
+
+  For instance, performances of "NoNoNo" after the release of *Pink Blossom* are included in the *Secret Garden* collection rather than the *Pink Blossom* collection (but one file with both "NoNoNo" and "Mr. Chu" appears in both).
+
+* My collection also includes short accompanying interviews, first place announcements of music shows when first place was
+obtained, and performances of special campaign songs and covers within the release cycle.
+
+* I try my best to keep the collection complete and up-to-date, but as with every mortal, I might have overlooked something. Please do not hesitate to contact me at <a href="mailto:popksh@gmail.com">popksh@gmail.com</a> to inform me of any omissions. Ten bonus points to your House (whether Gryffindor or Slytherin) if you in addition provide me with a valid download link to the missing file.
+
+* All files are named as
+
+  ```
+  YYYYMMDD-DESCRIPTION__7SHA1.ts
+  ```
+
+  where `YYYYMMDD` is the date of performance or broadcast, `DESCRIPTION` is the hyphen-delimited description (usually composed
+of TV station — left out for major music shows, group name, title(s) of song(s) performed or content description, e.g.,
+"interview", or "first place"), and `7SHA1` are the first seven digits of the hexadecimal SHA-1 digest of the file. The file
+extension is always `.ts` since all my videos are in MPEG-TS containers.
+
+<h2 id="specific-guidelines">specific guidelines</h2>
+
+* Track listing of *Pink Blossom*:
+
+  * 01 U You;
+  * 02 NoNoNo;
+  * 03 Lovely Day;
+  * 04 I Need You (난 니가 필요해)
+  * 05 Secret Garden;
+  * 06 NoNoNo (Inst.).
+
+* The digital single "Good Morning Baby" was released during this release cycle.
+
+* I talked about possible omissions in general guidelines. That point is unfortunately more true in this case, since I only joined the party toward the end of the *Secret Garden* era. I *tried* to collect all I could find, but all I could put my hands on were second hand information. Unfortunate fact of life. Please contact me regarding omissions.
+
+  Known omissions:
+
+    * 20130717 Show Champion first place awarding: that one is a rather well-known hidden camera, with the girls bursting into tears (first win in group history, after all — excluding one on M! Countdown for "MY MY").
+
+<h2 id="download-links">download links</h2>
+
+* **OneDrive:<br>
+  [1drv.ms/1BYdLR5](http://1drv.ms/1BYdLR5)**
+
+* **Baidu:<br>
+  [pan.baidu.com/s/1mgtBNxI](http://pan.baidu.com/s/1mgtBNxI)**
+
+<h2 id="file-list">file list</h2>
+
+```
+total: 51 files, 28810482229 bytes (27GiB)
+   642372124    20130704-m-countdown-apink-lovely-day-nonono__dde73f3.ts
+   548395624    20130705-music-bank-apink-nonono__5a402c4.ts
+   559309212    20130706-music-core-apink-nonono__1d04c2c.ts
+   884392420    20130710-show-champion-apink-lovely-day-nonono__6db273c.ts
+   428024864    20130711-m-countdown-apink-nonono__0c369c9.ts
+   713602316    20130712-music-bank-apink-lovely-day-nonono__537806f.ts
+   468355188    20130713-music-core-apink-nonono__4f5a074.ts
+   776370252    20130716-arirang-simply-kpop-apink-nonono-interview__80e35b8.ts
+   557505164    20130717-show-champion-apink-nonono__24888cf.ts
+   307390904    20130719-music-bank-apink-first-place__32fb856.ts
+   547812448    20130719-music-bank-apink-nonono__8a516e3.ts
+   504754244    20130720-music-core-apink-nonono__26d2e98.ts
+   500217428    20130721-inkigayo-apink-nonono__14b243d.ts
+   526230048    20130723-arirang-simply-kpop-apink-nonono__f280718.ts
+   561622364    20130724-show-champion-apink-nonono__57ea821.ts
+   539092444    20130726-music-bank-apink-nonono__8785334.ts
+   508197276    20130727-music-core-apink-nonono__b1e0321.ts
+   465566960    20130728-inkigayo-apink-nonono__b025729.ts
+   440435684    20130801-m-countdown-apink-nonono__bc4e998.ts
+   536975376    20130802-music-bank-apink-nonono__6dc7454.ts
+   495045548    20130803-music-core-apink-nonono__df380c4.ts
+   421263256    20130804-inkigayo-apink-nonono__13d643f.ts
+   428010388    20130808-m-countdown-apink-nonono__dc52247.ts
+   503500660    20130810-music-core-apink-nonono-remix__a6f90ac.ts
+   574969048    20130815-mbc-dmz-peace-concert-apink-nonono__b4ec119.ts
+   495668392    20130816-music-bank-apink-nonono__627c693.ts
+   357985276    20130817-music-core-apink-nonono__a48c2a2.ts
+   392190748    20130818-inkigayo-apink-nonono__8502381.ts
+   530431284    20130825-kbs-open-concert-apink-nonono__3095fb3.ts
+  1118559204    20130919-obs-students-culture-festival-apink-nonono-bubibu__49c1056.ts
+  1224371996    20131005-mbc-petition-life-festival-apink-nonono-my-my__f92ccb0.ts
+   493835204    20131005-music-core-apink-nonono__f83457e.ts
+   506733696    20131028-sbs-2013-hallyu-dream-concert-apink-nonono__8dcda1a.ts
+   528909612    20131121-tvn-2013-apan-star-awards-apink-nonono__bb3748b.ts
+   422136892    20131220-music-bank-apink-nonono__2008919.ts
+   517392356    20131227-kbs-2013-song-festival-apink-nonono__6381680.ts
+  1441041620    20131227-kbs-yoo-heeyuls-sketchbook-apink-my-my-nonono-interview__ae1461b.ts
+   880099064    20131229-sbs-gayo-daejeon-apink-girls-day-nonono-expectation__4771ea7.ts
+   634959660    20131231-mbc-gayo-daejejeon-apink-love-song__2375847.ts
+   518406052    20131231-mbc-gayo-daejejeon-apink-nonono-remix__403c87f.ts
+   241833048    20140116-jtbc-golden-disk-awards-apink-happiness__b30514f.ts
+   592375592    20140116-jtbc-golden-disk-awards-apink-nonono__7a0abe2.ts
+   632735620    20140123-kbs-drama-seoul-music-awards-apink-nonono__0bd86f8.ts
+   183035672    20140212-kbs-3rd-gaon-chark-kpop-awards-apink-nonono__8d93574.ts
+   639216920    20140301-korean-entertainment-arts-awards-apink-nonono__799e8a0.ts
+   496916524    20140402-show-champion-apink-nonono__1b6c0ad.ts
+   528912620    20140402-show-champion-apink-nonono__4b0b3b3.ts
+   521370060    20140413-fujinext-3rd-gaon-chart-kpop-awards-rebroadcast-apink-talk-nonono__e36548e.ts
+  1025341848    20140710-m-countdown-apink-nonono-mr-chu__268d296.ts
+   446610168    20140710-m-countdown-apink-nonono-mr-chu__61dc5ae.ts
+          59    missing.txt
+```

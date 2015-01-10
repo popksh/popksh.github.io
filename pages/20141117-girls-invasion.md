@@ -1,0 +1,167 @@
+---
+page_title: Lovelyz - Girls' Invasion
+date_last_updated: January 10, 2015
+---
+# Lovelyz — *Girls' Invasion* &nbsp;era<br>live performance collection
+
+(Released November 17, 2014.)
+
+<h2 id="TOC">TOC</h2>
+
+* [album cover](#album-cover)
+* [general guidelines](#general-guidelines)
+* [specific guidelines](#specific-guidelines)
+* [download links](#download-links)
+* [file list](#file-list)
+
+<h2 id="album-cover">album cover</h2>
+
+![album cover](/images/20141117-girls-invasion__600x600.jpg)
+
+<h2 id="general-guidelines">general guidelines</h2>
+
+* My collection of live performances includes all broadcast performances of songs within the release cycle (see specific guidelines for track listing), whether or not the performance is dated within the release cycle.
+
+  For instance, performances of "NoNoNo" after the release of *Pink Blossom* are included in the *Secret Garden* collection rather than the *Pink Blossom* collection (but one file with both "NoNoNo" and "Mr. Chu" appears in both).
+
+* My collection also includes short accompanying interviews, first place announcements of music shows when first place was
+obtained, and performances of special campaign songs and covers within the release cycle.
+
+* I try my best to keep the collection complete and up-to-date, but as with every mortal, I might have overlooked something. Please do not hesitate to contact me at <a href="mailto:popksh@gmail.com">popksh@gmail.com</a> to inform me of any omissions. Ten bonus points to your House (whether Gryffindor or Slytherin) if you in addition provide me with a valid download link to the missing file.
+
+* All files are named as
+
+  ```
+  YYYYMMDD-DESCRIPTION__7SHA1.ts
+  ```
+
+  where `YYYYMMDD` is the date of performance or broadcast, `DESCRIPTION` is the hyphen-delimited description (usually composed of the TV station — left out for major music shows, group name, title(s) of song(s) performed or content description, e.g., "interview", or "first place"), and `7SHA1` are the first seven digits of the hexadecimal SHA-1 digest of the file. The file extension is always `.ts` since all my videos are in MPEG-TS containers.
+
+<h2 id="specific-guidelines">specific guidelines</h2>
+
+* Track listing of *Girls' Invasion*:
+
+  * 01 Introducing The Candy;
+  * 02 Candy Jelly Love;
+  * 03 Good Night Like Yesterday (어제처럼 굿나잇);
+  * 04 Good-bye Chapter 1 (이별 Chapter 1);
+  * 05 Getaway (비밀여행);
+  * 06 Stranger (남보다 못한 사이) Feat. Wheesung;
+  * 07 She's a Flirt (그녀는 바람둥이야) Feat. DongWoo;
+  * 08 Delight;
+  * 09 Gone (너만 없다).
+
+<h2 id="download-links">download links</h2>
+
+* **OneDrive:<br>
+  [1drv.ms/1w6VTP7](http://1drv.ms/1w6VTP7)**
+
+* **Baidu:<br>
+  [pan.baidu.com/s/1jGHw28Y](http://pan.baidu.com/s/1jGHw28Y)**
+
+<h2 id="file-list">file list</h2>
+
+```
+total: 101 files, 56537719075 bytes (53GiB)
+   892887576    20141113-m-countdown-lovelyz-farewell-chapter-1-candy-jelly-love__9082627.ts
+   612815516    20141113-m-countdown-lovelyz-farewell-chapter-1-candy-jelly-love__abea232.ts
+   899202308    20141114-music-bank-lovelyz-gataway-candy-jelly-love__afafce2.ts
+   177225532    20141114-music-bank-lovelyz-waiting-room__284a937.ts
+   654682364    20141115-music-core-lovelyz-goodnight-like-yesterday-candy-jelly-love__1b8e017.ts
+   714606236    20141115-music-core-lovelyz-goodnight-like-yesterday-candy-jelly-love__8f5cf32.ts
+   720942400    20141116-inkigayo-lovelyz-goodnight-like-yesterday-candy-jelly-love__a30287d.ts
+   645519244    20141116-inkigayo-lovelyz-goodnight-like-yesterday-candy-jelly-love__be6b225.ts
+   610415700    20141118-sbs-the-show-lovelyz-candy-jelly-love__d03cccf.ts
+   323754568    20141118-sbs-the-show-lovelyz-good-night-like-yesterday__ae8a446.ts
+   573161428    20141119-show-champion-lovelyz-candy-jelly-love__ebac431.ts
+   445142404    20141120-m-countdown-lovelyz-candy-jelly-love__a794c49.ts
+   534086568    20141120-m-countdown-lovelyz-candy-jelly-love__dd64a41.ts
+   904512467    20141121-arirang-simply-kpop-lovelyz-candy-jelly-love__3ee6b39.ts
+   218721482    20141121-arirang-simply-kpop-lovelyz-good-night-like-yesterday__10aa732.ts
+   491021220    20141121-music-bank-lovelyz-candy-jelly-love__8379efa.ts
+   537802764    20141121-music-bank-lovelyz-candy-jelly-love__cc100f0.ts
+   523846208    20141122-music-core-lovelyz-candy-jelly-love__59ee081.ts
+   539851776    20141122-music-core-lovelyz-candy-jelly-love__fd318ca.ts
+   492190204    20141123-inkigayo-lovelyz-candy-jelly-love__6bfcf63.ts
+   548891004    20141123-inkigayo-lovelyz-candy-jelly-love__c8b68dd.ts
+   537975724    20141125-sbs-the-show-lovelyz-candy-jelly-love__12a03d7.ts
+   733846183    20141125-sbs-the-show-lovelyz-candy-jelly-love__dbb1e95.ts
+   585450612    20141126-show-champion-lovelyz-candy-jelly-love__bba1225.ts
+   950541304    20141126-show-champion-lovelyz-candy-jelly-love__ef9d714.ts
+  1070069817    20141128-arirang-simply-kpop-lovelyz-candy-jelly-love__7257326.ts
+   536526996    20141128-music-bank-lovelyz-candy-jelly-love__4e34f14.ts
+   537605928    20141128-music-bank-lovelyz-candy-jelly-love__59bb1c1.ts
+   537688648    20141129-music-core-lovelyz-candy-jelly-love__778e6b7.ts
+   535038224    20141129-music-core-lovelyz-candy-jelly-love__c280f3f.ts
+   547247132    20141130-inkigayo-lovelyz-candy-jelly-love__4688cf9.ts
+   516789440    20141130-inkigayo-lovelyz-candy-jelly-love__bb60259.ts
+   758363800    20141202-sbs-the-show-lovelyz-candy-jelly-love-and-ending__d1d4eb5.ts
+   998288211    20141202-sbs-the-show-lovelyz-candy-jelly-love__a8014b1.ts
+   518777728    20141202-sbs-the-show-lovelyz-candy-jelly-love__c17f55d.ts
+   506483280    20141202-sbs-the-show-lovelyz-candy-jelly-love__ff976c2.ts
+   725480720    20141205-music-bank-lovelyz-candy-jelly-love-and-ending__aec3298.ts
+   537590512    20141205-music-bank-lovelyz-candy-jelly-love__39d9581.ts
+   540068352    20141205-music-bank-lovelyz-candy-jelly-love__55f5fb5.ts
+   606475780    20141206-music-core-lovelyz-candy-jelly-love-and-ending__119e967.ts
+   495590936    20141206-music-core-lovelyz-candy-jelly-love__13edc98.ts
+   542883840    20141206-music-core-lovelyz-candy-jelly-love__435a9a6.ts
+   572124044    20141207-inkigayo-lovelyz-candy-jelly-love-and-ending__36f7d25.ts
+   543489012    20141207-inkigayo-lovelyz-candy-jelly-love__0e9a898.ts
+   505826032    20141207-inkigayo-lovelyz-candy-jelly-love__6e6167f.ts
+   651780208    20141209-sbs-the-show-lovelyz-candy-jelly-love-and-ending__8b4a7ea.ts
+   553789107    20141209-sbs-the-show-lovelyz-candy-jelly-love__111ad68.ts
+   542099128    20141209-sbs-the-show-lovelyz-candy-jelly-love__3315d46.ts
+   428896983    20141209-sbs-the-show-lovelyz-candy-jelly-love__377e078.mkv
+   536240672    20141209-sbs-the-show-lovelyz-candy-jelly-love__b91f66c.ts
+   514682524    20141209-sbs-the-show-lovelyz-candy-jelly-love__c73f30d.ts
+   537209436    20141211-mbc-special-live-love-starts-with-a-small-giving-lovelyz-candy-jelly-love__b1d3c66.ts
+   497575464    20141211-mbc-special-live-love-starts-with-a-small-giving-lovelyz-candy-jelly-love__fa8554d.ts
+   806777224    20141212-arirang-simply-kpop-lovelyz-candy-jelly-love__3257e6b.ts
+   514729336    20141212-arirang-simply-kpop-lovelyz-candy-jelly-love__d29d89b.ts
+   522972572    20141212-arirang-simply-kpop-lovelyz-candy-jelly-love__dcf4308.ts
+   478048280    20141213-music-core-lovelyz-candy-jelly-love-and-ending__c7cdd80.ts
+   442814260    20141213-music-core-lovelyz-candy-jelly-love__2dafce0.ts
+   408687560    20141213-music-core-lovelyz-candy-jelly-love__65390b8.ts
+   671126912    20141214-inkigayo-lovelyz-candy-jelly-love-and-ending__cec049b.ts
+   543284468    20141214-inkigayo-lovelyz-candy-jelly-love__20d9832.ts
+   545579008    20141214-inkigayo-lovelyz-candy-jelly-love__bcc4f45.ts
+   686757984    20141216-sbs-the-show-lovelyz-candy-jelly-love-and-ending__10747d7.ts
+   537247036    20141216-sbs-the-show-lovelyz-candy-jelly-love__03e1c38.ts
+   503079540    20141216-sbs-the-show-lovelyz-candy-jelly-love__13a052f.ts
+   665933165    20141216-sbs-the-show-lovelyz-candy-jelly-love__420dba0.ts
+   481692096    20141216-sbs-the-show-lovelyz-candy-jelly-love__6ec4e69.ts
+   506127396    20141218-mbc-youth-blue-growth-awards-lovelyz-candy-jelly-love__0bb0ed7.ts
+   482297644    20141218-mbc-youth-blue-growth-awards-lovelyz-candy-jelly-love__a28b141.ts
+   619967976    20141219-arirang-simply-kpop-lovelyz-candy-jelly-love__1b0adf6.ts
+   975139242    20141219-arirang-simply-kpop-lovelyz-candy-jelly-love__a9d393f.ts
+   513947068    20141219-arirang-simply-kpop-lovelyz-candy-jelly-love__e3bbc71.ts
+   439193756    20141220-music-core-lovelyz-candy-jelly-love__34d4b5b.ts
+   270563396    20141221-sbs-gayo-daejun-lovelyz-candy-jelly-love__cac1d36.ts
+   369057724    20141221-sbs-gayo-daejun-strong-babies-lovelyz-etc-moves-like-jagger__5fab8cf.ts
+   708939728    20141223-sbs-the-show-lovelyz-white__0e8a05f.ts
+   556370208    20141223-sbs-the-show-lovelyz-white__95bfe18.ts
+   787898600    20141225-m-countdown-lovelyz-candy-jelly-love-remix-and-ending__a80c4a4.ts
+   558182152    20141225-m-countdown-lovelyz-candy-jelly-love-remix__d8d09fc.ts
+   536756962    20141225-m-countdown-lovelyz-candy-jelly-love-remix__f9fff4c.ts
+   359110456    20141227-music-core-lovelyz-candy-jelly-love__1db6a48.ts
+   368694884    20141227-music-core-lovelyz-candy-jelly-love__861dd0d.ts
+   341427740    20141227-music-core-lovelyz-candy-jelly-love__8b7101d.ts
+   536644496    20141228-inkigayo-lovelyz-candy-jelly-love__2dfba9a.ts
+   503416060    20141228-inkigayo-lovelyz-candy-jelly-love__b91386e.ts
+   503292356    20141228-inkigayo-lovelyz-candy-jelly-love__e04db1f.ts
+   238201264    20141228-kbs-golden-bell-challenge-lovelyz-cut__5be0f79.ts
+   303413388    20141228-kbs-golden-bell-challenge-lovelyz-cut__6fb79fd.ts
+   539742360    20141230-sbs-the-show-lovelyz-candy-jelly-love__315e11f.ts
+   510419812    20141230-sbs-the-show-lovelyz-candy-jelly-love__5a403af.ts
+   563729580    20141230-sbs-the-show-lovelyz-candy-jelly-love__725831d.ts
+   595669728    20141231-mbc-gayo-daejejeon-lovelyz-candy-jelly-love-remix-and-ending__de5b799.ts
+   347828952    20141231-mbc-gayo-daejejeon-lovelyz-candy-jelly-love-remix__b5bb1d7.ts
+   382089320    20141231-mbc-gayo-daejejeon-lovelyz-candy-jelly-love-remix__cd39695.ts
+   537157548    20150102-music-bank-lovelyz-candy-jelly-love__1491f53.ts
+   540663936    20150102-music-bank-lovelyz-candy-jelly-love__d5b542a.ts
+   692521688    20150103-music-core-lovelyz-candy-jelly-love-and-ending__116564e.ts
+   521432852    20150103-music-core-lovelyz-candy-jelly-love__a13375e.ts
+   680116884    20150104-inkigayo-lovelyz-candy-jelly-love-and-ending__6590cb1.ts
+   526723360    20150104-inkigayo-lovelyz-candy-jelly-love__8e0f060.ts
+   548466688    20150104-inkigayo-lovelyz-candy-jelly-love__e625cc0.ts
+```
