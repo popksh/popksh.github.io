@@ -1,6 +1,6 @@
 ---
 page_title: A Pink - Pink Blossom
-date_last_updated: January 10, 2015
+date_last_updated: January 11, 2015
 ---
 # A Pink — *Pink Blossom* &nbsp;era<br>live performance collection
 
@@ -51,6 +51,21 @@ extension is always `.ts` since all my videos are in MPEG-TS containers.
   * 05 So Long;
   * 06 Mr. Chu;
   * 07 Mr. Chu (On Stage) (Inst.).
+
+* List of music show wins:
+
+  * 20140409 Show Champion;
+  * 20140410 M! Countdown;
+  * 20140411 Music Bank;
+  * 20140412 Music Core;
+  * 20140413 Inkigayo;
+  * 20140508 M! Countdown.
+
+* I talked about possible omissions in the general guidelines. That point is more true in this case, since I wasn't in the habit of collecting everything at that time. Please do not hesitate to contact me regarding omissions.
+
+  Known omissions:
+
+  * 20140410 M! Countdown first place announcement and encore.
 
 <h2 id="download-links">download links</h2>
 

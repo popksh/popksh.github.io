@@ -1,6 +1,6 @@
 ---
 page_title: A Pink - Secret Garden
-date_last_updated: January 10, 2015
+date_last_updated: January 11, 2015
 ---
 # A Pink — *Secret Garden* &nbsp;era<br>live performance collection
 
@@ -52,6 +52,11 @@ extension is always `.ts` since all my videos are in MPEG-TS containers.
   * 06 NoNoNo (Inst.).
 
 * The digital single "Good Morning Baby" was released during this release cycle.
+
+* List of music show wins:
+
+  * 20130717 Show Champion;
+  * 20130719 Music Bank.
 
 * I talked about possible omissions in general guidelines. That point is unfortunately more true in this case, since I only joined the party toward the end of the *Secret Garden* era. I *tried* to collect all I could find, but all I could put my hands on were second hand information. Unfortunate fact of life. Please contact me regarding omissions.
 
