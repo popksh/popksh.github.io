@@ -60,10 +60,6 @@ extension is always `.ts` since all my videos are in MPEG-TS containers.
 
 * I talked about possible omissions in general guidelines. That point is unfortunately more true in this case, since I only joined the party toward the end of the *Secret Garden* era. I *tried* to collect all I could find, but all I could put my hands on were second hand information. Unfortunate fact of life. Please contact me regarding omissions.
 
-  Known omissions:
-
-    * 20130717 Show Champion first place awarding: that one is a rather well-known hidden camera, with the girls bursting into tears (first win in group history, after all — excluding one on M! Countdown for "MY MY").
-
 <h2 id="download-links">download links</h2>
 
 * **OneDrive:<br>
@@ -75,7 +71,7 @@ extension is always `.ts` since all my videos are in MPEG-TS containers.
 <h2 id="file-list">file list</h2>
 
 ```
-total: 51 files, 28810482229 bytes (27GiB)
+total: 51 files, 29104796358 bytes (28GiB)
    642372124    20130704-m-countdown-apink-lovely-day-nonono__dde73f3.ts
    548395624    20130705-music-bank-apink-nonono__5a402c4.ts
    559309212    20130706-music-core-apink-nonono__1d04c2c.ts
@@ -84,6 +80,7 @@ total: 51 files, 28810482229 bytes (27GiB)
    713602316    20130712-music-bank-apink-lovely-day-nonono__537806f.ts
    468355188    20130713-music-core-apink-nonono__4f5a074.ts
    776370252    20130716-arirang-simply-kpop-apink-nonono-interview__80e35b8.ts
+   294314188    20130717-show-champion-apink-first-place__f6b5652.ts
    557505164    20130717-show-champion-apink-nonono__24888cf.ts
    307390904    20130719-music-bank-apink-first-place__32fb856.ts
    547812448    20130719-music-bank-apink-nonono__8a516e3.ts
@@ -126,5 +123,4 @@ total: 51 files, 28810482229 bytes (27GiB)
    521370060    20140413-fujinext-3rd-gaon-chart-kpop-awards-rebroadcast-apink-talk-nonono__e36548e.ts
   1025341848    20140710-m-countdown-apink-nonono-mr-chu__268d296.ts
    446610168    20140710-m-countdown-apink-nonono-mr-chu__61dc5ae.ts
-          59    missing.txt
 ```

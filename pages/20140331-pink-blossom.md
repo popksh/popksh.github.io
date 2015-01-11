@@ -63,10 +63,6 @@ extension is always `.ts` since all my videos are in MPEG-TS containers.
 
 * I talked about possible omissions in the general guidelines. That point is more true in this case, since I wasn't in the habit of collecting everything at that time. Please do not hesitate to contact me regarding omissions.
 
-  Known omissions:
-
-  * 20140410 M! Countdown first place announcement and encore.
-
 <h2 id="download-links">download links</h2>
 
 * **OneDrive:<br>
@@ -78,7 +74,7 @@ extension is always `.ts` since all my videos are in MPEG-TS containers.
 <h2 id="file-list">file list</h2>
 
 ```
-total: 80 files, 39815770852 bytes (38GiB)
+total: 81 files, 40484226506 bytes (38GiB)
    712932284    20140404-music-bank-apink-sunday-monday-mr-chu__3d453f7.ts
    701471052    20140404-music-bank-apink-sunday-monday-mr-chu__e32f45f.ts
    533617132    20140404-music-bank-apink-world-cup-interview__88e8152.ts
@@ -94,6 +90,7 @@ total: 80 files, 39815770852 bytes (38GiB)
    630637164    20140409-show-champion-apink-first-place__02cb28e.ts
    592046080    20140409-show-champion-apink-first-place__d91ef9d.ts
    802349784    20140409-show-champion-apink-interview__55a72b3.ts
+   668455620    20140410-m-countdown-apink-first-place__4c5e4ff.ts
    436464372    20140410-m-countdown-apink-so-long-mr-chu__421b6a7.ts
    229471860    20140411-music-bank-apink-first-place__7c33ad3.ts
    116948408    20140411-music-bank-apink-interview__1486cb5.ts
