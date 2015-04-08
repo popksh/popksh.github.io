@@ -4,6 +4,8 @@ date_last_updated: January 9, 2015
 ---
 <p style="font-size:10px"><a href="index-zh.html"><u>切换至简体中文版</u></a></p>
 
+<font color="#cb4b16"><strong>This project has been abandoned and this website won't be updated any more. Existing resources will be retained for the forseeable future.</strong> <em>2015-04-08 12:35:49 PM PDT.</em></font>
+
 <h2 id="TOC">TOC</h2>
 
 * [whoami](#whoami)
